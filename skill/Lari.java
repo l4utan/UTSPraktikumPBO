@@ -1,9 +1,9 @@
 package skill;
 
 import base.Karakter;
-import base.Skill;
+import base.Skills;
 
-public class Lari extends Skill {
+public class Lari extends Skills {
     private int jarak;
 
     public Lari() { super("Lari"); }

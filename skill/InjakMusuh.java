@@ -2,9 +2,9 @@ package skill;
 
 import base.Karakter;
 import base.Musuh;
-import base.Skill;
+import base.Skills;
 
-public class InjakMusuh extends Skill {
+public class InjakMusuh extends Skills {
     public InjakMusuh() { super("InjakMusuh"); }
 
     @Override
